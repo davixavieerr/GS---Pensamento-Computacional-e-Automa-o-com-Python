@@ -33,7 +33,7 @@ Para executar este projeto localmente, siga os passos abaixo:
 
 1. Clonar o Repositório
 
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
+git clone https://github.com/davixavieerr/GS---Pensamento-Computacional-e-Automa-o-com-Python.git
 cd NOME-DO-REPOSITORIO
 
 2. Criar um Ambiente Virtual
@@ -141,5 +141,6 @@ Davi, você está no início de uma jornada emocionante. Com sua base técnica s
 5. Sair
 
 Escolha uma opção: 5
+
 
 Saindo... até logo!
